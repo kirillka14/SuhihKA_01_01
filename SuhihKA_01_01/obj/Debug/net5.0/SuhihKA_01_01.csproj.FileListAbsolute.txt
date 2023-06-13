@@ -1,0 +1,16 @@
+C:\Users\305-1\Desktop\SuhihKA_01_01\bin\Debug\net5.0\SuhihKA_01_01.exe
+C:\Users\305-1\Desktop\SuhihKA_01_01\bin\Debug\net5.0\SuhihKA_01_01.deps.json
+C:\Users\305-1\Desktop\SuhihKA_01_01\bin\Debug\net5.0\SuhihKA_01_01.runtimeconfig.json
+C:\Users\305-1\Desktop\SuhihKA_01_01\bin\Debug\net5.0\SuhihKA_01_01.runtimeconfig.dev.json
+C:\Users\305-1\Desktop\SuhihKA_01_01\bin\Debug\net5.0\SuhihKA_01_01.dll
+C:\Users\305-1\Desktop\SuhihKA_01_01\bin\Debug\net5.0\ref\SuhihKA_01_01.dll
+C:\Users\305-1\Desktop\SuhihKA_01_01\bin\Debug\net5.0\SuhihKA_01_01.pdb
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.csproj.AssemblyReference.cache
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.AssemblyInfoInputs.cache
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.AssemblyInfo.cs
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.dll
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\ref\SuhihKA_01_01.dll
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.pdb
+C:\Users\305-1\Desktop\SuhihKA_01_01\obj\Debug\net5.0\SuhihKA_01_01.genruntimeconfig.cache
